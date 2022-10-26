@@ -1,0 +1,35 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.app{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #f3f3f3;
+}
+
+.description{
+  text-align: center;
+  margin-left: 10%;
+}
+
+.descParaTwo{
+  text-align: justify;
+}
+
+.descPara{
+  text-align: center;
+}
+
+.logo{
+  margin-top: -12%;
+  height: 300px;
+  width: 300px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
