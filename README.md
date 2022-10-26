@@ -14,7 +14,7 @@ This application was made over the course of a number of months with by one indi
 ## Application Architecture
 ![Architecture](https://github.com/Sean-Jay-M/GarryChessFinal/blob/documentation/webGarryChess.png)
 
-The architecture is a simple React-Django Application which utilizes API's in order to get AI Moves. The npm packages chess.js and react-chessboard are utilized to provide the frontend logic and interface. The backend is supported by the ChessMove class which makes use of a convulutional neural network in order to provide moves.
+The architecture is a simple React-Django Application which utilizes API's in order to get AI Moves. The npm packages chess.js and react-chessboard are utilized to provide the frontend logic and interface. The backend is supported by the ChessMove class which makes use of a convulutional neural network in order to provide moves. PyClient contains a simple script which will provide a prediction without the need for installing or running the frontend application, this is included for ease of use and for those who are only interested in the API itself and not the frontend user interface.
 
 ## Chess Class
 
