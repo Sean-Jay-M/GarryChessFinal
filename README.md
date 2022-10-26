@@ -1,4 +1,4 @@
-# GarryChessFinal Documentation is currently being written.
+# GarryChessFinal
 A React - Django web application which utilizes Deep Learning techniques (Convolutional Neural Networks) to play chess. Testing is currently underway to ascertain the ELO of the Model.
 This application was made over the course of a number of months with by one individual:
 
