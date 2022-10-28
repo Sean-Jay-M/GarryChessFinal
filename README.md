@@ -21,7 +21,7 @@ The architecture is a simple React-Django Application which utilizes API's in or
 
 ## Chess Class
 
-Both the backend and the model building made use of this class (or group of functions in the case of the model building). It is important to understand how this works in order to understand the role of the Neural Network. The Convolutional Neural Network provides board evaluations i.e is this board position beneficial for white. This evaluation is utilized as part of a Minimax Algorithm with the complexity of O(b^m) in order to provide the best move.
+Both the backend and the model building made use of this class (or group of functions in the case of the model building). It is important to understand how this works in order to understand the role of the Neural Network. The Convolutional Neural Network provides board evaluations i.e is this board position beneficial for white. This evaluation is utilized as part of a Minimax Algorithm with the complexity of O(b^m) in order to provide the best move. To view this class within the web application click [here.](https://github.com/Sean-Jay-M/GarryChessFinal/blob/main/backend/api/chessfuncs.py)
 
 ![class](https://github.com/Sean-Jay-M/GarryChessFinal/blob/documentation/chessClass.png)
 
