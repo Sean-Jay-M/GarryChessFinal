@@ -10,6 +10,8 @@ This application was made over the course of a number of months with by one indi
 ![Architecture](https://github.com/Sean-Jay-M/GarryChessFinal/blob/documentation/garrychessinterface.PNG)
 
 ## Branches
+This is a public *presentation* repository only. Proper branching proceedure was not followed for this repository. The original repository followed a Feature Branching proceedure.
+
 *Main:*  The Main branch contains the web application, containing the React - Django files.
 
 *modelBuilding:* Contains jupyter notebooks used to build the model and instructions on how to replicate the results.
