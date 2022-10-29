@@ -29,9 +29,11 @@ def randomBoardGenerator(max_depth=200):
 
 
 #params are the most important part of our API. These will send the 
-get_response = requests.get(endpoint, params={'board': 'rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1'}) #API  #http request #REST will carry JSON or XML
+get_response = requests.get(endpoint, params={'board': randomBoardGenerator()}, json={"move":"Making a Move"}) #API  #http request #REST will carry JSON or XML
 
-print(requests.get(endpoint, params={'board': randomBoardGenerator()}, json={"move":"Making a Move"}))
+
+# an example of a static response is below
+# requests.get(endpoint, params={'board': 'rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1'})
 #print(get_response.text) # print raw text response
 #print(get_response.status_code) 
 
