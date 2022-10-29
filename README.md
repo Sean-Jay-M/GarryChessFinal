@@ -7,6 +7,8 @@ This application was made over the course of a number of months with by one indi
 
 [Sean-Jay-M](https://github.com/Sean-Jay-M)
 
+![Architecture](https://github.com/Sean-Jay-M/GarryChessFinal/blob/documentation/garrychessinterface.PNG)
+
 ## Branches
 *Main:*  The Main branch contains the web application, containing the React - Django files.
 
