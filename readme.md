@@ -36,7 +36,7 @@ To run locally simply run the command:
 
 ## setting up the frontend 
 
-Change to the directory *frontend* ensure you have npx installed React and the relevent modules. It is important that you npm install these specific modules at these particular versions:
+Change to the directory *frontend/chessinterface* ensure you have npx installed React and the relevent modules. It is important that you npm install these specific modules at these particular versions:
 
  chess.js@0.13.3 and react-chessboard@1.2.5 
 
