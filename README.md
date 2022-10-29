@@ -33,7 +33,9 @@ Both the backend and the model building made use of this class (or group of func
 ![class](https://github.com/Sean-Jay-M/GarryChessFinal/blob/documentation/chessClass.png)
 
 
-## Notes
+## Notes and How to Run
+
+To see how to run click [here.](https://github.com/Sean-Jay-M/GarryChessFinal/blob/documentation/readme.md)
 
 Documentation on how to run this locally is being written. 
 For any questions please contact [Sean-Jay-M](https://github.com/Sean-Jay-M)
